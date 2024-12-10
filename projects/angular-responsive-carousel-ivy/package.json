@@ -1,0 +1,13 @@
+{
+  "name": "angular-responsive-carousel-modified-ivy",
+  "version": "2.1.1",
+  "peerDependencies": {
+    "@angular/common": "^18.2.0",
+    "@angular/core": "^18.2.0"
+  },
+  "dependencies": {
+    "angular-responsive-carousel-modified-ivy": "file:",
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false
+}
